@@ -1,6 +1,6 @@
 name: Build Xiaomi Mix2s (Based AOSP A16) (Kernel 4.19)
 
-于:
+on:
   workflow_call:
   workflow_dispatch:
 
